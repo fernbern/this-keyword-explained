@@ -28,3 +28,11 @@ var person = {
 };
 document.getElementById('demo').innerHTML = 
 person.fullName();
+// new scetion
+var width = 600;
+var shape = {width: 300};
+
+var showWidth = function() {
+    document.write(this.width);
+}
+showWidth();
