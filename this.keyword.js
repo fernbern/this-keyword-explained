@@ -129,3 +129,8 @@ function Car() {
 Car.prototype.getSpeed = () => {
     return this.speed;
 }
+function bike() {
+    console.log(this.name)
+}
+var name = 'Ninja';
+bike();
