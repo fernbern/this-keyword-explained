@@ -134,3 +134,5 @@ function bike() {
 }
 var name = 'Ninja';
 bike();
+console.log(this);
+const mapping = go.map(x => x * 8);
