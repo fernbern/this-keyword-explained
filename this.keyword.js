@@ -138,6 +138,8 @@ console.log(this);
 const mapping = go.map(x => x * 8);
 
 console.log(this.window);
+
+console.log(this.window);
 console.log("testing");
 var x = 12;
 let y = 'Moon';
