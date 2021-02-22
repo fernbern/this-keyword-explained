@@ -16,6 +16,7 @@ var person = {
         return this.firstName + " " + this.lastName;
     }
 };
+console.log(this);
 document.getElementById('demo').innerHTML =
 person.fullName();
 var person = {
