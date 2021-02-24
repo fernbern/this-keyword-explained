@@ -96,6 +96,7 @@ Car.prototype.getBrand = function() {
     return this.brand;
 }
 var car = new Car('Honda');
+var car = new Car('Honda');
 console.log(car.getBrand());
 var bmw = Car('BMW');
 console.log(bmw.brand);
