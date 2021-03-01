@@ -16,6 +16,7 @@ var person = {
         return this.firstName + " " + this.lastName;
     }
 };
+pop(); map();
 console.log(this);
 document.getElementById('demo').innerHTML =
 person.fullName();
@@ -145,3 +146,4 @@ console.log(this.window);
 console.log("testing");
 var x = 12;
 let y = 'Moon';
+colsonelog(this);
