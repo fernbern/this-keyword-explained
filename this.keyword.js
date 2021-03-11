@@ -33,6 +33,7 @@ person.fullName();
 // new scetion
 var width = 600;
 var shape = {width: 300};
+console.log(this);
 
 var showWidth = function() {
     document.write(this.width);
@@ -67,7 +68,7 @@ function show() {
     }
     bar();
 }
-foo();
+foo(); foo();
 let car = {
     brand: 'Honda',
     getBrand: function() {
@@ -113,6 +114,8 @@ function Car(brand) {
     }
     this.brand = brand;
 }
+
+functions explainthis() {}
 function getBrand(prefix) {
     console.log(prefix + this.brand);
 }
