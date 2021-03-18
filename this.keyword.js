@@ -149,4 +149,6 @@ console.log(this.window);
 console.log("testing");
 var x = 12;
 let y = 'Moon';
-colsonelog(this);
+console.log(window.this);
+console.log(this);
+let xy = 'Xeno
