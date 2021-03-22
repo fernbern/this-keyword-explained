@@ -152,3 +152,5 @@ let y = 'Moon';
 console.log(window.this);
 console.log(this);
 let xy = 'Dr Xeno';
+const arr = [1,2,3,4,5];
+console.log(arr);
