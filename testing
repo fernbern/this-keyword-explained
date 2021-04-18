@@ -1,1 +1,3 @@
 console.log(this);
+let arr = ['this'];
+arr.map(x => arr + ' keyword');
