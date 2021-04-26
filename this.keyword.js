@@ -131,6 +131,7 @@ let getThis = () => this;
 console.log(getThis() === window);
 function Car() {
     this.speed = 120;
+    return this;
 }
 Car.prototype.getSpeed = () => {
     return this.speed;
