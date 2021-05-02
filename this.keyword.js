@@ -157,3 +157,4 @@ const arr = [1,2,3,4,5];
 console.log(arr);
 console.log(xy);
 console.log(this);
+let keep_changing = 'work hard';
