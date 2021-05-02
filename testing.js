@@ -5,3 +5,4 @@ consolee.log(this.arr);
 const thiskeyword = 'hard to learn';
 let growth = 'this keyword';
 console.log(this);
+let grow = true;
