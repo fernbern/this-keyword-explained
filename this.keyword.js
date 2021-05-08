@@ -7,7 +7,7 @@ const test = {
     },
 };
 console.log(test.func());
-arr.map();
+arr.map(); map() find()
 var person = {
     firstName: 'John',
     lastName: 'Done',
@@ -159,3 +159,4 @@ console.log(arr);
 console.log(xy);
 console.log(this);
 let keep_changing = 'work hard';
+include(); filter();
