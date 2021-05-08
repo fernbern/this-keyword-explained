@@ -8,6 +8,7 @@ const test = {
 };
 map(): map(); map();
 console.log(test.func());
+map(); map(); map();
 arr.map(); map() find()
 var person = {
     firstName: 'John',
