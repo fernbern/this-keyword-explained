@@ -6,7 +6,7 @@ const test = {
         return this.prop;
     },
 };
-map():
+map(): map(); map();
 console.log(test.func());
 arr.map(); map() find()
 var person = {
