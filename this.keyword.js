@@ -7,6 +7,7 @@ const test = {
     },
 };
 console.log(test.func());
+arr.map();
 var person = {
     firstName: 'John',
     lastName: 'Done',
