@@ -13,3 +13,4 @@ function myFunc() {
 arr.myFunc();
 console.log();
 arr.map();
+map(); find(); isArray();
