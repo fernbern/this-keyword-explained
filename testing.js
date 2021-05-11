@@ -12,3 +12,4 @@ function myFunc() {
 }
 arr.myFunc();
 console.log();
+arr.map();
