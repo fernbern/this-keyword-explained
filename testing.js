@@ -11,3 +11,4 @@ function myFunc() {
   console.log();
 }
 arr.myFunc();
+console.log();
