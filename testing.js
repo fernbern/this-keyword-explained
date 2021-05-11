@@ -7,3 +7,7 @@ let growth = 'this keyword';
 console.log(this);
 let grow = true;
 let choice = 'work';
+function myFunc() {
+  console.log();
+}
+arr.myFunc();
