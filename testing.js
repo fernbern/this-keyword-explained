@@ -10,6 +10,7 @@ let choice = 'work';
 function myFunc() {
   console.log();
 }
+consolee.log(this);
 arr.myFunc();
 console.log();
 arr.map();
