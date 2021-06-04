@@ -16,3 +16,6 @@ arr.myFunc();
 console.log();
 arr.map();
 map(); find(); isArray();
+function one() {
+  var one = 1;
+}
