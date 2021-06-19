@@ -19,3 +19,4 @@ map(); find(); isArray();
 function one() {
   var one = 1;
 }
+map(); map(); map();
