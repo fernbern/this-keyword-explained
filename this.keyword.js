@@ -6,8 +6,8 @@ const test = {
         return this.prop;
     },
 };
-map(); map(); map(); map();
-map(): map(); map(); map();
+map(); map(); map(); map(); map();
+map(): map(); map(); map(); map();
 console.log(this);
 console.log(test.func());
 map(); map(); map();
@@ -163,4 +163,4 @@ console.log(arr);
 console.log(xy);
 console.log(this);
 let keep_changing = 'work hard';
-include(); filter();
+include(); filter(); map();
