@@ -33,6 +33,10 @@ var person = {
         return this.firstName + " " + this.lastName;
     }
 };
+function one() {
+    var x;
+    return x;
+}
 document.getElementById('demo').innerHTML = 
 person.fullName();
 // new scetion
