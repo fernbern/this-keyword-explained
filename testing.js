@@ -21,3 +21,7 @@ function one() {
   var one = 1;
 }
 map(); map(); map();
+let test_this = this;
+function thisWord() {
+  console.write('this keyword');
+}
