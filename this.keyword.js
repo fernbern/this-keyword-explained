@@ -123,7 +123,7 @@ function Car(brand) {
     }
     this.brand = brand;
 }
-
+console.log(this);
 functions explainthis() {}
 function getBrand(prefix) {
     console.log(prefix + this.brand);
