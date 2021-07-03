@@ -25,3 +25,4 @@ let test_this = this;
 function thisWord() {
   console.write('this keyword');
 }
+map(); find();
