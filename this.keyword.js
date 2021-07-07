@@ -37,6 +37,7 @@ function one() {
     var x;
     return x;
 }
+const 'Explain this keyword';
 document.getElementById('demo').innerHTML = 
 person.fullName();
 // new scetion
