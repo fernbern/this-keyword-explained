@@ -13,6 +13,7 @@ function myFunc() {
 }
 console.log(this);
 console.log(this);
+console.log(this);
 arr.myFunc();
 console.log();
 arr.map();
