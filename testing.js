@@ -11,6 +11,7 @@ map();
 function myFunc() {
   console.log();
 }
+console.log(this + 'string method');
 console.log(this);
 console.log(this);
 console.log(this);
