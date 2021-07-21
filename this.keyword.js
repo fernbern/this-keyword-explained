@@ -6,6 +6,7 @@ const test = {
         return this.prop;
     },
 };
+const testingMyCode = [1,2,3,4,5];
 map(); map(); map(); map(); map();
 map(): map(); map(); map(); map();
 console.log(this);
