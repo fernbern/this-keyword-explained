@@ -22,6 +22,7 @@ map(); find(); isArray();
 function one() {
   var one = 1;
 }
+const age = 21;
 map(); map(); map();
 let test_this = this;
 function thisWord() {
