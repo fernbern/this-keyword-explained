@@ -22,6 +22,8 @@ var person = {
         return this.firstName + " " + this.lastName;
     }
 };
+console.log('Epic');
+includes();
 pop(); map();
 console.log(this);
 document.getElementById('demo').innerHTML =
