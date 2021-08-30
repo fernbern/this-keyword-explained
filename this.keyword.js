@@ -67,6 +67,7 @@ console.log(window.color);
 function show() {
     console.log(this === window);
 }
+const app2 = {name: 'Fernando', age: 25}
 show();
 window.show();
 'use strict';
