@@ -7,7 +7,7 @@ let growth = 'this keyword';
 console.log(this);
 let grow = true;
 let choice = 'work';
-map();
+map(); map(); includes();
 function myFunc() {
   console.log();
 }
