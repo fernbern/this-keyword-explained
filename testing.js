@@ -11,6 +11,7 @@ map(); map(); includes();
 function myFunc() {
   console.log();
 }
+map() filter() reduce() pop() push() shift() unshift()
 console.log(this + 'string method');
 console.log(this);
 console.log(this);
