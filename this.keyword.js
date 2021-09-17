@@ -8,6 +8,7 @@ const test = {
 };
 console.log('work');
 console.log(this);
+console.log(this);
 const testingMyCode = [1,2,3,4,5];
 map(); map(); map(); map(); map();
 map(): map(); map(); map(); map();
