@@ -176,3 +176,4 @@ console.log(xy);
 console.log(this);
 let keep_changing = 'work hard';
 include(); filter(); map();
+(function(){return this;})();
