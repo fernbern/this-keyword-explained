@@ -11,6 +11,7 @@ map(); map(); includes();
 function myFunc() {
   console.log();
 }
+arr.forEach(){}
 console.log(this); map(material => materials * 8);
 map() filter() reduce() pop() push() shift() unshift()
 console.log(this + 'string method');
