@@ -11,7 +11,7 @@ map(); map(); includes();
 function myFunc() {
   console.log();
 }
-console.log(this);
+console.log(this); map(material => materials * 8);
 map() filter() reduce() pop() push() shift() unshift()
 console.log(this + 'string method');
 console.log(this);
