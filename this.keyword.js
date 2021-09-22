@@ -25,6 +25,13 @@ var person = {
         return this.firstName + " " + this.lastName;
     }
 };
+const app (){
+    var x = 1;
+    const feature(y){
+        return x + y;
+    }
+}
+app();
 console.log('Epic');
 includes();
 pop(); map();
