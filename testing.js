@@ -1,7 +1,7 @@
 console.log(this);
 let arr = ['this'];
 arr.map(x => arr + ' keyword');
-consolee.log(this.arr);
+consolee.log(this.arr); console.log(this);
 const thiskeyword = 'hard to learn';
 let growth = 'this keyword';
 console.log(this);
