@@ -6,6 +6,7 @@ const test = {
         return this.prop;
     },
 };
+console.log(this);
 console.log('work');
 console.log(this);
 console.log(this);
